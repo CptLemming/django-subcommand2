@@ -13,7 +13,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/CptLemming/django-subcommand/issues.
+Report bugs at https://github.com/CptLemming/django-subcommand2/issues.
 
 If you are reporting a bug, please include:
 
@@ -36,14 +36,14 @@ is open to whoever wants to implement it.
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
 
-django-subcommand could always use more documentation, whether as part of the
-official django-subcommand docs, in docstrings, or even on the web in blog posts,
+django-subcommand2 could always use more documentation, whether as part of the
+official django-subcommand2 docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Submit Feedback
 ~~~~~~~~~~~~~~~
 
-The best way to send feedback is to file an issue at https://github.com/CptLemming/django-subcommand/issues.
+The best way to send feedback is to file an issue at https://github.com/CptLemming/django-subcommand2/issues.
 
 If you are proposing a feature:
 
@@ -55,17 +55,17 @@ If you are proposing a feature:
 Get Started!
 ------------
 
-Ready to contribute? Here's how to set up `django-subcommand` for local development.
+Ready to contribute? Here's how to set up `django-subcommand2` for local development.
 
-1. Fork the `django-subcommand` repo on GitHub.
+1. Fork the `django-subcommand2` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/django-subcommand.git
+    $ git clone git@github.com:your_name_here/django-subcommand2.git
 
 3. Install your local copy into a virtualenv. Assuming you have virtualenvwrapper installed, this is how you set up your fork for local development::
 
-    $ mkvirtualenv django-subcommand
-    $ cd django-subcommand/
+    $ mkvirtualenv django-subcommand2
+    $ cd django-subcommand2/
     $ python setup.py develop
 
 4. Create a branch for local development::
@@ -101,7 +101,7 @@ Before you submit a pull request, check that it meets these guidelines:
    your new functionality into a function with a docstring, and add the
    feature to the list in README.rst.
 3. The pull request should work for Python 2.6, 2.7, and 3.3, and for PyPy. Check
-   https://travis-ci.org/CptLemming/django-subcommand/pull_requests
+   https://travis-ci.org/CptLemming/django-subcommand2/pull_requests
    and make sure that the tests pass for all supported Python versions.
 
 Tips

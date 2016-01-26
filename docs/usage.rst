@@ -2,7 +2,7 @@
 Usage
 ========
 
-To use django-subcommand in a project::
+To use django-subcommand2 in a project::
 
     # myapp.management.commands.parent_command.py
     from subcommand.base import SubcommandCommand

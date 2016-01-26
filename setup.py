@@ -33,13 +33,13 @@ readme = open('README.rst').read()
 history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
-    name='django-subcommand',
+    name='django-subcommand2',
     version=version,
     description="""Support subcommands in management commands""",
     long_description=readme + '\n\n' + history,
     author='Ashley Wilson',
     author_email='scifilem@gmail.com',
-    url='https://github.com/CptLemming/django-subcommand',
+    url='https://github.com/CptLemming/django-subcommand2',
     packages=[
         'subcommand',
     ],
@@ -48,7 +48,7 @@ setup(
     ],
     license="BSD",
     zip_safe=False,
-    keywords='django-subcommand',
+    keywords='django-subcommand2',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Framework :: Django',

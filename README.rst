@@ -1,22 +1,22 @@
-=================
-django-subcommand
-=================
+==================
+django-subcommand2
+==================
 
-.. image:: https://travis-ci.org/CptLemming/django-subcommand.png?branch=master
-    :target: https://travis-ci.org/CptLemming/django-subcommand
+.. image:: https://travis-ci.org/CptLemming/django-subcommand2.png?branch=master
+    :target: https://travis-ci.org/CptLemming/django-subcommand2
 
 
 Documentation
 -------------
 
-The full documentation is at https://django-subcommand.readthedocs.org.
+The full documentation is at https://django-subcommand2.readthedocs.org.
 
 Install
 -------
 
 Install django-subcommand::
 
-    pip install django-subcommand
+    pip install django-subcommand2
 
 Usage
 -----
