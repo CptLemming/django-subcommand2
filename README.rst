@@ -2,7 +2,13 @@
 django-subcommand2
 ==================
 
-.. image:: https://travis-ci.org/CptLemming/django-subcommand2.png?branch=master
+.. image:: https://img.shields.io/pypi/v/django-subcommand2.svg
+    :target: https://pypi.python.org/pypi/django-subcommand2
+
+.. image:: https://img.shields.io/pypi/dm/django-subcommand2.svg
+    :target: https://pypi.python.org/pypi/django-subcommand2
+
+.. image:: https://img.shields.io/travis/CptLemming/django-subcommand2.svg
     :target: https://travis-ci.org/CptLemming/django-subcommand2
 
 
