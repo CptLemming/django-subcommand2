@@ -15,7 +15,7 @@ django-subcommand2
 Documentation
 -------------
 
-The full documentation is at https://django-subcommand2.readthedocs.org.
+The full documentation is at https://django-subcommand2.readthedocs.io.
 
 Install
 -------
